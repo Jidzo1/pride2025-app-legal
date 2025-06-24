@@ -42,7 +42,7 @@ Our terms of service outline the rules and guidelines for using the Toronto Prid
 
 ## 📅 Document History
 
-- **January 2025**: Initial version created for app launch
+- **June 2025**: Initial version created for app launch
 
 ## 🏳️‍🌈 About Pride Toronto 2025
 
