@@ -1,6 +1,6 @@
 # Terms of Service for Toronto Pride 2025 Events
 
-**Last updated:** January 2025
+**Last updated:** June 2025
 
 ## Acceptance of Terms
 
