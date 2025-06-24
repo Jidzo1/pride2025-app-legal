@@ -1,0 +1,1 @@
+# pride2025-app-legal
