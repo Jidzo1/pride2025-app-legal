@@ -9,12 +9,14 @@ By downloading, installing, or using the Montreal Pride 2025 Events mobile appli
 ## Description of Service
 
 Montreal Pride 2025 Events is a mobile application that provides:
-- Event schedules and information for Pride Montreal 2025
+- Event schedules and information for Pride Montreal 2025 in English and French
 - Interactive maps showing event locations and venues
-- Event filtering and search capabilities
+- Event filtering and search capabilities by date, type, and location
 - Local storage of favorite events
+- Language switching between English and French
 - Sharing functionality for events
 - Links to external websites and resources
+- Community information and venue guides
 
 ## User Responsibilities
 
@@ -37,12 +39,24 @@ You agree to use the App only for lawful purposes and in accordance with these T
 - We strive to provide accurate and up-to-date information but cannot guarantee its completeness or accuracy
 - Event details may change without notice
 - We are not responsible for any changes to events, venues, or schedules
+- Event information is available in both English and French
+
+### Language and Localization
+- The App supports English and French languages
+- Language switching affects the entire app interface and content
+- Your language preference is stored locally on your device
+- We strive to provide accurate translations but cannot guarantee perfect translation quality
 
 ### Maps and Location Services
 - The App uses Google Maps for location services
 - Location accuracy depends on your device's GPS and internet connection
 - You can disable location services in your device settings
 - We do not track or store your location data
+
+### Event Filtering
+- The App provides filtering capabilities for events by date, type, and other criteria
+- Filter preferences may be stored locally for convenience
+- Filter results are based on available event data and may not be comprehensive
 
 ### External Links
 - The App contains links to external websites and resources
@@ -81,6 +95,11 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT,
 - We do not organize, sponsor, or manage any events
 - You participate in events at your own risk
 - We are not liable for any injuries, damages, or losses related to event participation
+
+### Translation Accuracy
+- While we strive for accurate translations, we cannot guarantee perfect translation quality
+- Users should refer to official event sources for the most accurate information
+- We are not liable for any misunderstandings or errors in translation
 
 ## Privacy
 
