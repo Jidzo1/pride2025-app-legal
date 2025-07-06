@@ -11,6 +11,8 @@ Montreal Pride 2025 Events ("we," "our," or "us") is committed to protecting you
 ### Information You Provide
 - **Favorites**: When you mark events as favorites, this information is stored locally on your device
 - **Event Sharing**: When you share events, you may provide additional text or comments
+- **Language Preferences**: Your language choice (English/French) is stored locally for app localization
+- **Filter Preferences**: Your event filtering choices (date, type, etc.) may be stored locally for convenience
 
 ### Information Collected Automatically
 - **Device Information**: Basic device information for app functionality
@@ -24,16 +26,19 @@ Montreal Pride 2025 Events ("we," "our," or "us") is committed to protecting you
 ## How We Use Your Information
 
 We use the collected information to:
-- Provide event information and schedules
+- Provide event information and schedules in your preferred language
 - Display interactive maps with event locations
 - Allow you to save favorite events locally
 - Enable sharing of events with others
+- Remember your language and filter preferences
 - Improve app functionality and user experience
 
 ## Data Storage and Security
 
 ### Local Storage
 - **Favorites**: Your favorite events are stored locally on your device using SharedPreferences
+- **Language Settings**: Your language preference is stored locally
+- **Filter Settings**: Your filter preferences may be stored locally for convenience
 - **No Cloud Storage**: We do not store your personal data on external servers
 - **No User Accounts**: We do not require or create user accounts
 
@@ -56,6 +61,11 @@ We use the collected information to:
 
 ## Your Rights and Choices
 
+### Language Preferences
+- You can switch between English and French at any time
+- Your language choice is stored locally for convenience
+- Language changes affect the entire app interface and content
+
 ### Location Services
 - You can enable or disable location services in your device settings
 - Location data is only used for map functionality
@@ -64,6 +74,11 @@ We use the collected information to:
 ### Favorites
 - You can add or remove favorite events at any time
 - Favorites are stored locally and can be cleared by uninstalling the app
+
+### Filtering
+- You can filter events by date, type, and other criteria
+- Filter preferences may be stored locally for convenience
+- You can reset filters at any time
 
 ### Sharing
 - Sharing is optional and controlled by you
@@ -84,7 +99,7 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ## Data Retention
 
-- **Local Data**: Favorites and preferences are stored locally until you uninstall the app
+- **Local Data**: Favorites, language preferences, and filter settings are stored locally until you uninstall the app
 - **No Server Data**: We do not retain any personal data on our servers
 - **External Links**: We do not track or store information about external website visits
 
