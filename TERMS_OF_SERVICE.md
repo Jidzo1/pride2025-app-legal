@@ -1,15 +1,15 @@
-# Terms of Service for Toronto Pride 2025 Events
+# Terms of Service for Montreal Pride 2025 Events
 
-**Last updated:** June 2025
+**Last updated:** July 2025
 
 ## Acceptance of Terms
 
-By downloading, installing, or using the Toronto Pride 2025 Events mobile application ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
+By downloading, installing, or using the Montreal Pride 2025 Events mobile application ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
 
 ## Description of Service
 
-Toronto Pride 2025 Events is a mobile application that provides:
-- Event schedules and information for Pride Toronto 2025
+Montreal Pride 2025 Events is a mobile application that provides:
+- Event schedules and information for Pride Montreal 2025
 - Interactive maps showing event locations and venues
 - Event filtering and search capabilities
 - Local storage of favorite events
@@ -108,11 +108,11 @@ We may terminate or suspend access to the App at any time, with or without cause
 
 ## Governing Law
 
-These Terms are governed by the laws of the Province of Ontario, Canada, without regard to conflict of law principles.
+These Terms are governed by the laws of the Province of Quebec, Canada, without regard to conflict of law principles.
 
 ## Dispute Resolution
 
-Any disputes arising from these Terms or the use of the App shall be resolved in the courts of the Province of Ontario, Canada.
+Any disputes arising from these Terms or the use of the App shall be resolved in the courts of the Province of Quebec, Canada.
 
 ## Severability
 
