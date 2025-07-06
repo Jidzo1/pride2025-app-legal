@@ -1,10 +1,10 @@
-# Privacy Policy for Toronto Pride 2025 Events
+# Privacy Policy for Montreal Pride 2025 Events
 
-**Last updated:** June 2025
+**Last updated:** July 2025
 
 ## Introduction
 
-Toronto Pride 2025 Events ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Montreal Pride 2025 Events ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -90,8 +90,8 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ## International Users
 
-This app is designed for use in Toronto, Canada. If you are using the app from outside Canada, please be aware that your information may be transferred to and processed in Canada.
+This app is designed for use in Montreal, Canada. If you are using the app from outside Canada, please be aware that your information may be transferred to and processed in Canada.
 
 ## Consent
 
-By using Toronto Pride 2025 Events, you consent to the collection and use of information as described in this Privacy Policy. 
+By using Montreal Pride 2025 Events, you consent to the collection and use of information as described in this Privacy Policy. 
